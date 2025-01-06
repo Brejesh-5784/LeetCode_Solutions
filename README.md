@@ -7,7 +7,7 @@
 # Array Solutions - Easy Level
 1.   **1. Two Sum**
 2.   **26. Remove Duplicates from Sorted Array**
-3.   **27. Remove Element
+3.   **27. Remove Element**
 4.   **88. Merge Sorted Array**
 5.   **118. Pascal's Triangle**
 6.   **121. Best Time to Buy and Sell Stock**
